@@ -1,13 +1,19 @@
+## Hi, my name is Milene David! 👋
 
 
-<!--
-**milenedavid/milenedavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
 
-Here are some ideas to get you started:
+- 💻 Exploring new technologies. 
+- 🌱 Learning more about HTML, CSS and JavaScript.
 
-- 🌱 I’m currently learning JavaScript 
--->
 
-👋 Hello! Welcome to my Github profile.
-## My name is Milene David 
-- I’m currently learning JavaScript 💻
+## My Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+
+
+## Connect with me 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenedavid)
+
